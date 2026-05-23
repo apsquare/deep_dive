@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 //This is a commentsgt
+//Comment
 import HelpArea from "./HelpArea";
 
 function MainContent() {
