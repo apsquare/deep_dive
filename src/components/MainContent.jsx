@@ -2,6 +2,7 @@ import { useState } from "react";
 
 //This is a commentsgt
 //Comment
+//New commnet
 import HelpArea from "./HelpArea";
 
 function MainContent() {
